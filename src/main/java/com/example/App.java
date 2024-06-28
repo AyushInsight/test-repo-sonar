@@ -24,6 +24,9 @@ public class App {
 
         // Unnecessary use of BigDecimal for small numbers
         java.math.BigDecimal bd = new java.math.BigDecimal(0.1);
+
+        java.math.BigDecimal bd = new java.math.BigDecimal(0.1);
+        java.math.BigDecimal bd = new java.math.BigDecimal(0.1);
         System.out.println(bd);
     }
 
